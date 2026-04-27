@@ -35,6 +35,7 @@ My work focuses on full-stack development and exploring AI-driven solutions.
 
 ## 📫 Connect With Me
 Email: mihikasoni19@gmail.com 
+
 LinkedIn: https://www.linkedin.com/in/mihika-soni-05965031a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
