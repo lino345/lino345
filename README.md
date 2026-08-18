@@ -15,7 +15,7 @@ My work focuses on full-stack development and exploring AI-driven solutions.
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Languages:** C, C++, Java, JavaScript  
+- **Languages:** HTML, CSS, Java, JavaScript  
 
 
 
@@ -36,6 +36,4 @@ My work focuses on full-stack development and exploring AI-driven solutions.
 ## 📫 Connect With Me
 Email: mihikasoni19@gmail.com 
 
-LinkedIn: https://www.linkedin.com/in/mihika-soni-05965031a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-
+LinkedIn:https://www.linkedin.com/in/mihikasoni19/
